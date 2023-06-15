@@ -10,6 +10,8 @@
   "author": "Samser Ali Khan",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
     "inquirer": "^8.0.0",
     "nodemon": "^2.0.22",
     "qr-image": "^3.2.0"
